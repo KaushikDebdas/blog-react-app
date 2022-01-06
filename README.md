@@ -1,3 +1,27 @@
+# blog-react-app
+This is a Blog website. This website builds with React Js. Here I use HTML, CSS & React.
+
+# LIVE PREVIEW
+https://blogreactapp.netlify.app/
+
+## Screenshots
+### HOME
+![home](https://user-images.githubusercontent.com/67013658/148413816-89fea42a-11da-4757-87f1-1a06dbb52e11.png)
+### LOGIN
+![login](https://user-images.githubusercontent.com/67013658/148414032-6476a837-8623-4f07-8c57-bb5935a830c0.png)
+
+### REGISTER
+![register](https://user-images.githubusercontent.com/67013658/148414053-64c41e17-3698-48cc-b2cd-deafd9e86419.png)
+
+### SINGLEPOST
+![signlepost](https://user-images.githubusercontent.com/67013658/148414076-4ab6b3d1-00a6-45d1-8a94-cd49a27c2053.png)
+
+### WRITE
+![write](https://user-images.githubusercontent.com/67013658/148414656-bc24e462-5ba0-4c4a-af93-3386ee03ed9b.png)
+
+### SETTINGS
+![settings](https://user-images.githubusercontent.com/67013658/148414693-bd28880f-8c44-4ccf-a62c-85fef7cbcfaf.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +92,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# blog-react-app
+
