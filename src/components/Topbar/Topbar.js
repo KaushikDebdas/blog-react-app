@@ -7,10 +7,10 @@ export default function Topbar() {
   return (
     <div className="top">
       <div className="topLeft">
-        <i className="topIcon fa-brands fa-facebook-square"></i>
-        <i className="topIcon fa-brands fa-linkedin-in"></i>
-        <i className="topIcon fa-brands fa-github-square"></i>
-        <i className="topIcon fa-brands fa-twitter-square"></i>
+        <a href="https://www.facebook.com/kaushik.debdas/" target='_blank'><i className="topIcon fa-brands fa-facebook-square"></i></a>
+        <a href="https://www.linkedin.com/in/kaushik-debdas-233589208/" target="_blank"><i className="topIcon fa-brands fa-linkedin-in"></i></a>
+        <a href="https://github.com/KaushikDebdas" target="_blank"><i className="topIcon fa-brands fa-github-square"></i></a>
+        <a href="https://twitter.com/debdas_kaushik" target="_blank"><i className="topIcon fa-brands fa-twitter-square"></i></a> 
       </div>
       <div className="topCenter">
         <ul className="topList">
