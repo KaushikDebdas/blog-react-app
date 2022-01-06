@@ -31,10 +31,11 @@ export default function Sidebar() {
       <div className="sidebarItem">
         <span className="sidebarTitle">FOLLOW US</span>
         <div className="sidebarSocial">
-          <i className="sidebarIcon fa-brands fa-facebook-square"></i>
-          <i className="sidebarIcon fa-brands fa-linkedin-in"></i>
-          <i className="sidebarIcon fa-brands fa-github-square"></i>
-          <i className="sidebarIcon fa-brands fa-twitter-square"></i>
+        <a href="https://www.facebook.com/kaushik.debdas/" target='_blank'><i className="sidebarIcon fa-brands fa-facebook-square"></i></a>
+        <a href="https://www.linkedin.com/in/kaushik-debdas-233589208/" target="_blank"><i className="sidebarIcon fa-brands fa-linkedin-in"></i></a>
+        <a href="https://github.com/KaushikDebdas" target="_blank"><i className="sidebarIcon fa-brands fa-github-square"></i></a>
+        <a href="https://twitter.com/debdas_kaushik" target="_blank"><i className="sidebarIcon fa-brands fa-twitter-square"></i></a>
+        
         </div>
       </div>
     </div>
