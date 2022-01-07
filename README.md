@@ -1,5 +1,7 @@
 # blog-react-app
-This is a Blog website. This website builds with React Js. Here I use HTML, CSS & React.
+This is a Blog website. This website builds with React Js. Here I use HTML, CSS & React. 
+Design React blog app using functional React components and React Router Dom.
+
 
 # LIVE PREVIEW
 https://blogreactapp.netlify.app/
